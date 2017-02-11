@@ -23,12 +23,16 @@ body {
     bottom: 0;
     text-align: center;
   }
-  h3 { 
+h1{
+  font-weight: bold;
+}
+
+h3 { 
   letter-spacing: 1px; 
   margin-bottom: 0; 
   color: #7D775C;
   text-align: center;
-  }
+   }
 
   h2 {
   text-align: center;
