@@ -10,5 +10,13 @@
 	}
 	woman.push(graceHopper);
 	woman.push(saumyRay);
-	document.write(woman[0].name + "\n");
-	document.write(woman[0].field);
+
+var d = new Date(); 
+var t = d.getTime(); 
+var days = Math.floor(t / (1000));
+
+var i = days % woman.length; 
+
+var today = woman[i].name;
+
+	document.write(today);
