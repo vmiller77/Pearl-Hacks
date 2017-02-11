@@ -1,14 +1,16 @@
-@import url(https://fonts.googleapis.com/css?family=Irish+Grover);
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
 @import url(https://fonts.googleapis.com/css?family=Princess+Sofia);
 body {
     background-color: rgba(63,155,249,0.5);
-    background: url("https://images.unsplash.com/photo-1433878455169-4698e60005b1?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=25f8ad2395f113fc15db051b52706573");
+    background: url("pinkbackground.jpg");
     background-size: cover;
     width: 100%:
     height: auto;
     margin: 0;
     padding: 0;
     font-family: "Irish Grover", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Poiret One', cursive;
+
 }
 
   #footer{
@@ -64,7 +66,7 @@ body {
     background-color: #fff;
     border-radius: 5em;
     /*line-height: 600px;*/
-    font-family: "Princess Sofia", cursive;
+    font-family: "Poiret One", cursive;
 }
 a:link, a:visited {
     color: #38488f;
