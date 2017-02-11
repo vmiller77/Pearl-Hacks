@@ -25,10 +25,12 @@ body {
   }
 h1{
   font-weight: bold;
+  font-size: 40px;
 }
 
 h3 { 
   letter-spacing: 1px; 
+  font-size: 20px;
   margin-bottom: 0; 
   color: #7D775C;
   text-align: center;
@@ -73,14 +75,21 @@ h3 {
 
 
 .box {
-    width: 600px;
+    width: 400px;
     /*height: 600px;*/
-    margin: 5em auto;
-    padding: 50px;
+    margin: 2em auto;
+    padding: 10px;
     background-color: #fff;
-    border-radius: 5em;
+    border-radius: 2em;
     /*line-height: 600px;*/
     font-family: "Poiret One", cursive;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
+.box:hover {
+  opacity: 1.0;
+  filter: alpha(opacity=100);
 }
 a:link, a:visited {
     color: #38488f;
