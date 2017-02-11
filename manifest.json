@@ -14,3 +14,11 @@
   "background":{
 	"scripts":["websitePopup.js"]
 },
+
+ "permissions":[
+
+ ],
+
+"web_accessible_resources":[]
+
+}
