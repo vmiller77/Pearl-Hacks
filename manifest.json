@@ -2,15 +2,14 @@
 	"name":"STEM Women of Interest",
 	"description":"Promote women in stem by showcasing a different women in stem everyday from famous women to your every day student.",
 	"version":"1.0",
-<<<<<<< HEAD
-	"manifest_version":1,
+	"manifest_version":2,
 	"author":"Victoria Miller, Saumya Ray, Srihita Bongu"
  
 },
-=======
+
 	"manifest_version":2,
 	"author":"Victoria Miller, Saumya Ray, Srihita Bongu",
->>>>>>> origin/master
+
 
 "chrome_url_overrides" : {
     "newtab": "background.html"
