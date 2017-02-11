@@ -74,7 +74,7 @@ h3 {
  }
 
 
-.box {
+.box:hover {
     width: 400px;
     /*height: 600px;*/
     margin: 2em auto;
@@ -83,6 +83,8 @@ h3 {
     border-radius: 2em;
     /*line-height: 600px;*/
     font-family: "Poiret One", cursive;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
 }
 a:link, a:visited {
     color: #38488f;
