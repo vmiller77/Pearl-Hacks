@@ -1,4 +1,3 @@
- document.write(new Date().toLocaleDateString());
  var woman=[];
 
 	var graceHopper = {name:"Grace Hopper",
