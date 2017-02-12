@@ -53,6 +53,13 @@
    "field":"Astrophysics",
    "img":"http://www.astronomycast.com/wp-content/uploads/2014/12/INTOct08p5-jocelyn1.jpg",
    "description": "Bell Burnell was the first to discover and precisely analyze radio pulsars as a postgraduate student, for which her thesis supervisor shared the 1974 Nobel Prize, while she was excluded. She went on to become the president of the Royal Astronomical Society as well as the Institute of Physics, and currently serves as Pro-Chancellor for the University of Dublin."
-}
+},
+
+   "kateGoldenring":{
+      "name":"Kate Goldenring",
+      "field":"Computer Science",
+      "img":"http://s3.amazonaws.com/110-profiles/2016-fall/a66f9dad3e43f35ea0462e0cbb5348872061c1d1.jpeg",
+      "description":"Kate loves that you can figure out what the world is missing and make the solution to it in a 24 hours hackathon and filling that missing puzzle piece."
+   }
 
 }
