@@ -33,13 +33,15 @@ box[0].appendChild(nameBox);
 box[0].style.paddingTop=".25px";
 box[0].style.paddingBottom=".25px";
 
+var box1 = document.getElementsByClassName("box1");
 var imgBoxHeader=document.createElement("H");
 var img = document.createElement("IMG");
 imgBoxHeader.appendChild(img);
 img.src=woman[i].img;
 img.style.height="200px";
-box[1].appendChild(imgBoxHeader);
+box1[0].appendChild(imgBoxHeader);
 imgBoxHeader.style.paddingLeft="100px"
+
 
 var fieldBox=document.createElement("DIV");
 var fieldBoxHeader=document.createElement("H");
@@ -51,9 +53,9 @@ fieldBoxHeader.style.textAlign="center";
 var fieldText=document.createTextNode(woman[i].field);
 fieldBoxHeader.appendChild(fieldText);
 fieldBox.appendChild(fieldBoxHeader);
-box[2].appendChild(fieldBox);
-box[2].style.paddingTop="0px";
-box[2].style.paddingBottom="0px";
+box[1].appendChild(fieldBox);
+box[1].style.paddingTop="0px";
+box[1].style.paddingBottom="0px";
 
 var box2 = document.getElementsByClassName("box2");
 var desBox = document.createElement("DIV");
