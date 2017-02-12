@@ -2,7 +2,8 @@
 $.getJSON("https://raw.githubusercontent.com/vmiller77/Pearl-Hacks/master/womanBank.json", function(data) {
     //data is the JSON string
 console.log("HI!");
-
+//var a = JSON.parse(data);
+console.log(data);
 });
 
 var woman=[];
