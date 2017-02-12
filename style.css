@@ -98,10 +98,10 @@ p {
   filter: alpha(opacity=50);
 }
 
-/*.box2:hover {
+.box2:hover {
   opacity: 1.0;
   filter: alpha(opacity=50);
-}*/
+}
 
 .box2 {
     width: 600px;
@@ -111,8 +111,8 @@ p {
     background-color: #fff;
     border-radius: 2em;
     font-family: "Poiret One", cursive;
-/*    opacity: .75;
-    filter: alpha(opacity=50);*/
+    opacity: .75;
+    filter: alpha(opacity=50);
 }
 a:link, a:visited {
     color: #38488f;
