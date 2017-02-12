@@ -90,7 +90,7 @@ h3 {
 
 .box:hover {
   opacity: 1.0;
-  filter: alpha(opacity=100);
+  filter: alpha(opacity=1.0);
 }
 a:link, a:visited {
     color: #38488f;
