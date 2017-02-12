@@ -67,7 +67,7 @@ desBoxHeader.style.fontWeight="bold";
 var desText=document.createTextNode(todayDescr);
 desBoxHeader.appendChild(desText);
 desBox.appendChild(desBoxHeader);
-box[2].appendChild(desBox);
+box2[0].appendChild(desBox);
 
 });
 
