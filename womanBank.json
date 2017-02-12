@@ -7,12 +7,12 @@
    "name":"Saumya Ray",
    "field":"Computer Science",
    "img":"https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/12509093_821351854657291_4769766298998474702_n.jpg?oh=6e0c840f93fda1cc634b7ebfe4221108&oe=593D802A",
-   "description":"Saumya really loves nail art!"
+   "description":"Saumya is a sophomore Computer Science major studying at UNC Chapel Hill. She is an undergraduate TA for COMP 110, and introductory programming course. Her interests include traveling, nail art, and books."
 },"margaretHamilton":{  
    "name":"Margaret Hamilton",
    "field":"Computer Science/Math",
    "img":"https://upload.wikimedia.org/wikipedia/commons/6/68/Margaret_Hamilton_1995.jpg",
-   "description":"Margaret Heafield Hamilton is an American computer scientist, systems engineer, and business owner. She was Director of the Software Engineering Division[3] of the MIT Instrumentation Laboratory, which developed on-board flight software for the Apollo space program."
+   "description":"Margaret Heafield Hamilton is an American computer scientist, systems engineer, and business owner. She was Director of the Software Engineering Division of the MIT Instrumentation Laboratory, which developed on-board flight software for the Apollo space program."
 },"victoriaMiller":{  
    "name":"Victoria Miller",
    "img":"https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/13697050_10207337430054771_3154755651596441054_n.jpg?oh=1d0b1032b6c69c4de0f96144e275ab70&oe=5901AACF",
@@ -22,7 +22,7 @@
 "srihitaBongu":{"name":"Srihita Bongu",
    "field":"Chemistry/Economics",
    "img":"https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/11403148_1079322125428668_4129165249938649479_n.jpg?oh=32e2160ebd9032530ba15a5ea9014a53&oe=594BB1D5",
-   "description": "She really wishes she majored in Comp Sci."
+   "description": "Srihita is a senior Chemistry and Economics major. She really wishes she majored in Comp Sci."
 },
 
    "dorothyHodgkin" : {"name":"Dorothy Hodgkin",
@@ -34,7 +34,7 @@
    "meganSmith" : {"name":"Megan Smith",
    "field": "Technology/Politics",
    "img":"https://www.smith.edu/news/gatenew/wp-content/uploads/2016/02/ms-crop.jpg",
-   "description": "In 2014, Smith was named the first female, and third overall, Chhief Technology Officer of the United States. Prior to her role in government, she was the CEO of Planet Out and a top executive at Google, starting the latter's Women Techmakers diversity initiative."
+   "description": "In 2014, Smith was named the first female, and third overall, Chief Technology Officer of the United States. Prior to her role in government, she was the CEO of Planet Out and a top executive at Google, starting the latter's Women Techmakers diversity initiative."
 },
 
    "maryamMirzakhani" : {"name":"Maryam Mirzakhani",
@@ -46,7 +46,7 @@
    "francesAllen" : {"name":"Frances Allen",
    "field":"Computer Science",
    "img":"http://www.berkeley.edu/news/berkeleyan/2008/01/images/franallen1.jpg",
-   "description": "Allen is a pioneer in the field whose seminal work in optimizing compilers allowed her to become the first female IBM feelow and first woman to win the A.M. Turing Award in 2006."
+   "description": "Allen is a pioneer in the field whose seminal work in optimizing compilers allowed her to become the first female IBM fellow and first woman to win the A.M. Turing Award in 2006."
 },
 
    "bellBurnell" : {"name":"Jocelyn Bell Burnell",
