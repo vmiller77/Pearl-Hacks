@@ -80,7 +80,7 @@ var todayDescr = woman[i].description;
 var nameBox = document.createElement("DIV");
 var nameBoxHeader=document.createElement("H");
 nameBoxHeader.style.display="block"; 
-nameBoxHeader.style.fontSize="1.5em";
+nameBoxHeader.style.fontSize="2em";
 nameBoxHeader.style.margin="0.83em";
 nameBoxHeader.style.fontWeight="bold";
 nameBoxHeader.style.textAlign="center";
@@ -107,6 +107,6 @@ desBoxHeader.style.fontWeight="bold";
 var desText=document.createTextNode(todayDescr);
 desBoxHeader.appendChild(desText);
 desBox.appendChild(desBoxHeader);
-box2[0].appendChild(desBox);
+box[2].appendChild(desBox);
 
 });
