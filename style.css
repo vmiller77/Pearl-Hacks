@@ -28,10 +28,10 @@ h1{
   border-color:  #ff4daf;
   font-weight: bold;
   font-size: 35px;
+     color: white;
 }
 
 h3 { 
-  color: white;
   letter-spacing: 1px; 
   font-size: 35px;
   margin-bottom: 0;
