@@ -93,6 +93,7 @@ nameBoxHeader.style.display="block";
 nameBoxHeader.style.fontSize="1.5em";
 nameBoxHeader.style.margin="0.83em";
 nameBoxHeader.style.fontWeight="bold";
+nameBoxHeader.style.textAlign="center";
 var nameText=document.createTextNode(today);
 nameBoxHeader.appendChild(nameText);
 nameBox.appendChild(nameBoxHeader);
@@ -106,6 +107,21 @@ img.src=woman[i].img;
 img.style.height="200px";
 box[1].appendChild(imgBoxHeader);
 imgBoxHeader.style.paddingLeft="100px"
+<<<<<<< HEAD
+=======
+
+// var imgBox = document.createElement("DIV");
+// var imgBoxHeader=document.createElement("H");
+// imgBoxHeader.style.display="block"; 
+// imgBoxHeader.style.fontSize="1.5em";
+// imgBoxHeader.style.margin="0.83em";
+// imgBoxHeader.style.fontWeight="bold";
+// var imgText=document.createTextNode(todayImg);
+// imgBoxHeader.appendChild(imgText);
+// imgBox.appendChild(imgBoxHeader);
+// box[1].appendChild(nameBox);
+
+>>>>>>> origin/master
 
 var desBox = document.createElement("DIV");
 var desBoxHeader=document.createElement("H");
