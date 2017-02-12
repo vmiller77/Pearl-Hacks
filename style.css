@@ -31,12 +31,12 @@ h1{
 }
 
 h3 { 
+  color: white;
   letter-spacing: 1px; 
   font-size: 35px;
   margin-bottom: 0;
   margin-top:0;
   text-align: center;
-   color: white;
    }
 
 h2 {
