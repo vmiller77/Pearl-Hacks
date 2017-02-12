@@ -27,7 +27,7 @@ h1{
   border-style: solid;
   border-color:  #ff4daf;
   font-weight: bold;
-  font-size: 40px;
+  font-size: 35px;
 }
 
 h3 { 
@@ -37,9 +37,13 @@ h3 {
   text-align: center;
    }
 
-  h2 {
+h2 {
   text-align: center;
   }
+
+p {
+  font-family: "Times New Roman", Times, serif;
+}
 
  #topbar{
    width: 100%;
@@ -74,7 +78,6 @@ h3 {
    padding: 3px;
  }
 
-
 .box {
     width: 400px;
     /*height: 600px;*/
@@ -89,7 +92,7 @@ h3 {
 }
 
 .box:hover {
-  opacity: 1.0;
+  opacity: .6;
   filter: alpha(opacity=.50);
 }
 
@@ -100,7 +103,6 @@ h3 {
     padding: 10px;
     background-color: #fff;
     border-radius: 2em;
-    /*line-height: 600px;*/
     font-family: "Poiret One", cursive;
     opacity: 1.1;
     filter: alpha(opacity=50);

@@ -122,3 +122,7 @@ desBox.appendChild(desBoxHeader);
 box2[0].appendChild(desBox);
 
 });
+raw.githubusercontent.com
+{"graceHopper":{ "name":"Grace Hopper", "field":"Computer Science/Math", "img":"https://upload.wikimedia.org/wikipedia/commons/a/ad/Commodore_Grace_M._Hopper,_USN_(covered).jpg", "description":"Born in New York City in 1906, Grace Hopper joined the U.S. Navy during World War II and was assigned to p...
+raw.githubusercontent.com
+Victoria Miller
