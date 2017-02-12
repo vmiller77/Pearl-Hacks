@@ -18,7 +18,7 @@ var woman=[];
 	
 	var saumyaRay = {name:"Saumya Ray",
 	field:"Computer Science",
-	 img:url("https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/12509093_821351854657291_4769766298998474702_n.jpg?oh=6e0c840f93fda1cc634b7ebfe4221108&oe=593D802A"),
+	img:url("https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/12509093_821351854657291_4769766298998474702_n.jpg?oh=6e0c840f93fda1cc634b7ebfe4221108&oe=593D802A"),
 	description: "Saumya really loves nail art!"
 	}
 	
@@ -30,7 +30,7 @@ var woman=[];
 
 	var victoriaMiller = {name:"Victoria Miller",
 	field: "Computer Science/Mathematical Decision Sciences",
-	img: url("https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/13697050_10207337430054771_3154755651596441054_n.jpg?oh=1d0b1032b6c69c4de0f96144e275ab70&oe=5901AACF")
+	img: url("https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/13697050_10207337430054771_3154755651596441054_n.jpg?oh=1d0b1032b6c69c4de0f96144e275ab70&oe=5901AACF"),
 	description: "She's in a business frat but doesn't major in it."}
 
 	var srihitaBongu = {name:"Srihita Bongu",
