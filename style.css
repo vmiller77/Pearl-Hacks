@@ -87,13 +87,13 @@ p {
     border-radius: 2em;
     /*line-height: 600px;*/
     font-family: "Poiret One", cursive;
-    opacity: 1.1;
+    opacity: .75;
     filter: alpha(opacity=50);
 }
 
 .box:hover {
-  opacity: .6;
-  filter: alpha(opacity=.50);
+  opacity: 1.0;
+  filter: alpha(opacity=50);
 }
 
 .box2 {
