@@ -109,6 +109,7 @@ img.style.height="200px";
 box[1].appendChild(imgBoxHeader);
 imgBoxHeader.style.paddingLeft="100px"
 
+var box2 = document.getElementsByClassName("box2");
 var desBox = document.createElement("DIV");
 var desBoxHeader=document.createElement("H");
 desBoxHeader.style.display="block"; 
@@ -118,4 +119,4 @@ desBoxHeader.style.fontWeight="bold";
 var desText=document.createTextNode(todayDescr);
 desBoxHeader.appendChild(desText);
 desBox.appendChild(desBoxHeader);
-box[2].appendChild(desBox);
+box2[0].appendChild(desBox);
