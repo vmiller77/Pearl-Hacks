@@ -1,9 +1,9 @@
 //call the json to load
-// $.getJSON("http://pastebin.com/raw/j13uM49D", function(data) {
-//     //data is the JSON string
-// console.log("HI!");
+$.getJSON("https://raw.githubusercontent.com/vmiller77/Pearl-Hacks/master/womanBank.json", function(data) {
+    //data is the JSON string
+console.log("HI!");
 
-// });
+});
 
 var woman=[];
 
@@ -107,8 +107,6 @@ img.src=woman[i].img;
 img.style.height="200px";
 box[1].appendChild(imgBoxHeader);
 imgBoxHeader.style.paddingLeft="100px"
-<<<<<<< HEAD
-=======
 
 // var imgBox = document.createElement("DIV");
 // var imgBoxHeader=document.createElement("H");
@@ -120,8 +118,6 @@ imgBoxHeader.style.paddingLeft="100px"
 // imgBoxHeader.appendChild(imgText);
 // imgBox.appendChild(imgBoxHeader);
 // box[1].appendChild(nameBox);
-
->>>>>>> origin/master
 
 var desBox = document.createElement("DIV");
 var desBoxHeader=document.createElement("H");
