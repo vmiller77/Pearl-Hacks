@@ -6,26 +6,29 @@
 
 // });
 
-
-
-
 var woman=[];
 
 	var graceHopper = {name:"Grace Hopper",
 	field:"Computer Science/Math",
+	img:"https://upload.wikimedia.org/wikipedia/commons/a/ad/Commodore_Grace_M._Hopper,_USN_(covered).jpg",
 	description:"Born in New York City in 1906, Grace Hopper joined the U.S. Navy during World War II and was assigned to program the Mark I computer. She continued to work in computing after the war, leading the team that created the first computer language compiler, which led to the popular COBOL language."};
 	
 	var saumyaRay = {name:"Saumya Ray",
 	field:"Computer Science",
-	description: "Saumya really loves nail art!"};
+	img:"https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/12509093_821351854657291_4769766298998474702_n.jpg?oh=6e0c840f93fda1cc634b7ebfe4221108&oe=593D802A",
+	description: "Saumya really loves nail art!"
+	}
+	
 
 	var maggieHamilton = {name:"Margaret Hamilton",
 	field:"Computer Science/Math",
+	img:"https://upload.wikimedia.org/wikipedia/commons/6/68/Margaret_Hamilton_1995.jpg",
 	description: "Margaret Heafield Hamilton is an American computer scientist, systems engineer, and business owner. She was Director of the Software Engineering Division[3] of the MIT Instrumentation Laboratory, which developed on-board flight software for the Apollo space program."};
 
 	var victoriaMiller = {name:"Victoria Miller",
-	field:"Computer Science",
-	description: "She's in a business frat but doesn't major in it."};
+	field: "Computer Science/Mathematical Decision Sciences",
+	img:"https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/13697050_10207337430054771_3154755651596441054_n.jpg?oh=1d0b1032b6c69c4de0f96144e275ab70&oe=5901AACF",
+	description: "She's in a business frat but doesn't major in it."}
 
 	var srihitaBongu = {name:"Srihita Bongu",
 	field:"Chemistry/Economics",
@@ -54,7 +57,6 @@ var woman=[];
 	var deborahDiaz = {name:"Deborah Diaz",
 	field:"Information Technology",
 	description: "Diaz is currently NASA's Chief Technology Officer for IT who has created and led many high profile initiatives that include Women in Data. Prior to NASA, she was the CIO for the Department of Homeland Security and the deputy CIO of the US Trademark and Patent Office, where she developed and implemented ground-breaking scientific programs and modernized business processes."};
-
 	woman.push(graceHopper);
 	woman.push(saumyaRay);
 	woman.push(victoriaMiller);
@@ -89,6 +91,11 @@ nameBoxHeader.appendChild(nameText);
 nameBox.appendChild(nameBoxHeader);
 var box = document.getElementsByClassName("box");
 box[0].appendChild(nameBox);
+
+var img = document.createElement("IMG");
+img.src=woman[i].img;
+img.style.height="200px";
+box[1].appendChild(img);
 
 var desBox = document.createElement("DIV");
 var desBoxHeader=document.createElement("H");
