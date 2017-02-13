@@ -9,7 +9,7 @@ $.getJSON("https://raw.githubusercontent.com/vmiller77/Pearl-Hacks/master/womanB
 
 var d = new Date(); 
 var t = d.getTime(); 
-var days = Math.floor(t / (50000));
+var days = Math.floor(t / (86400000));
 
 document.body.background="url(pic1.jpeg)";
 
