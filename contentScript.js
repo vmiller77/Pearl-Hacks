@@ -6,9 +6,9 @@ $.getJSON("https://raw.githubusercontent.com/vmiller77/Pearl-Hacks/master/womanB
    	$.each(data,function(key,val){
    		woman.push(val);
    	});
-
 var d = new Date(); 
 var t = d.getTime(); 
+console.log(t);
 var days = Math.floor(t / (86400000));
 
 document.body.background="url(pic1.jpeg)";
