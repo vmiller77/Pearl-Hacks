@@ -11,8 +11,6 @@ var t = d.getTime();
 console.log(t);
 var days = Math.floor(t / (86400000));
 
-document.body.background="url(pic1.jpeg)";
-
 var i = days % woman.length; 
 var today = woman[i].name;
 var todayImg = woman[i].img;
