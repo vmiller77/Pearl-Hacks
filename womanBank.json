@@ -74,7 +74,13 @@
       "field":"Computer Science",
       "img":"http://s3.amazonaws.com/110-profiles/2016-fall/a66f9dad3e43f35ea0462e0cbb5348872061c1d1.jpeg",
       "description":"Kate loves that you can figure out what the world is missing and make the solution to it in a 24 hours hackathon and filling that missing puzzle piece."
-   }
+   },
+"amyGladfelter":{
+   "name":"Amy Gladfelter",
+   "field":"Science",
+   "img":"https://scholar.google.com/citations?view_op=view_photo&user=YZO6qPoAAAAJ&citpid=2",
+   "description":"Amy is a cell biologist and an associate professor of Biology at UNC Chapel Hill. Her lab studies how cells are organized, how they divide, how they know their shape and how they make decisions."
+}
 
 
 }
