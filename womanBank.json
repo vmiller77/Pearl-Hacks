@@ -30,13 +30,18 @@
 },
 "ruthMoore":{"name":"Ruth Ella Moore",
    "field":"Science",
-   "img":"http://i1.wp.com/muslim-science.com/wp-content/uploads/2015/01/4411839_3_9752_ameenah-gurib-fakim-le-18-avril-2014_aace471e81046427d77d2df611750eef.jpg?resize=300%2C158",
+   "img":"http://www.blackpast.org/files/blackpast_images/moore_ruth_ella.jpg",
    "description": "Ruth is the first African-American woman to earn a Ph.D in the natural sciences.She taught hygiene and English at Tennessee State University,during her graduate school years. She then became an assistant Professor of bacteriology at Howard University College of Medicine.In 1995 she wasmade the HEad of the department of Bacteriology."
 },
 "srihitaBongu":{"name":"Srihita Bongu",
    "field":"Chemistry/Economics",
-   "img":"http://geekgirlcon.com/wp-content/uploads/2015/01/Alice-Ball.png",
+   "img":"https://scontent-atl3-1.xx.fbcdn.net/v/t31.0-8/10479919_905959109431638_3618935554918047746_o.jpg?oh=14e4dde5bee3f33de19753ecb49bfa7d&oe=592525F3",
    "description": "Srihita is a senior at UNC majoring in Chemistry and Economics. Her research focuses on neuroproteins implicated in mental disabilities and disorders as well as the regulatory dynamics of the healthcare industry. She found her passion for compSci too late to major in it but is excited to continue her learning post graduation."
+},
+"aliceBall":{"name":"Alice Ball",
+   "field":"Chemistry",
+   "img":"http://geekgirlcon.com/wp-content/uploads/2015/01/Alice-Ball.png",
+   "description": "Alice Ball was the first woman to graduate from the College of Hawaii (now the University of Hawaii) in 1915 with a master’s degree in science (chemistry). She was the first African American research chemist and instructor in the college’s chemistry department. Alice Ball was also the first person to successfully develop a water-soluble, injectable form of chaulmoogra oil that was used for decades to relieve the symptoms of Hansen’s disease (leprosy)."
 },
 "dorothyHodgkin" : {"name":"Dorothy Hodgkin",
    "field": "Chemistry",
