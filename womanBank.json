@@ -61,7 +61,7 @@
 "maryamMirzakhani" : {"name":"Maryam Mirzakhani",
    "field": "Mathematics",
    "img":"http://mathematics.stanford.edu/wp-content/uploads/connections-images/maryam-mirzakhani/Mirzakhani_original.jpg",
-   "description": "Mirzakhani was both the first woman and the first Iranian in 2014 to be awarded the Fields medal, the equivalent of the Nobel Prize in Mathematics, for her oustanding contributions to the study of Riemann surfaces. She was a former professor at Stanford University"
+   "description": "Mirzakhani, currently a professor at Stanford University, was both the first woman and the first Iranian in 2014 to be awarded the Fields medal, the equivalent of the Nobel Prize in Mathematics, for her oustanding contributions to the study of Riemann surfaces."
 },
 "francesAllen" : {"name":"Frances Allen",
    "field":"Computer Science",
@@ -90,13 +90,7 @@
    "field":"Science",
    "img":"https://scholar.google.com/citations?view_op=view_photo&user=YZO6qPoAAAAJ&citpid=2",
    "description":"Amy is a cell biologist and an associate professor of Biology at UNC Chapel Hill. Her lab studies how cells are organized, how they divide, how they know their shape and how they make decisions."
-},
-"vaishnaviSiripurapu":{
-      "name":"Vaishnavi Siripurapu",
-      "field":"Science",
-      "img":"https://www.sigmaxi.org/images/default-source/Meetings-Events/student-research-showcase-2014/2018-presentations/vaishnavi-siripurapu.jpg?sfvrsn=d921b858_0&MaxWidth=230&MaxHeight=255&ScaleUp=true&Quality=High&Method=ResizeFitToAreaArguments&Signature=11492F29CF7AA3E7B99C0F69F79D3DAA",
-      "description":"Vaishnavi Siripurapu is a student at UNC-Chapel Hill. Despite her young age, Vaishnavi has conducted research in Duke University's Medical School in the Bagnat Lab to determine the organization and formation of notochords in zebrafish and has been published in the journal Philosophical Transactions of the Royal Society B. She continues her work at the Lohmann Lab at UNC and spreads science by working as a science communicator for various organizations."
-   }
+}
 
 
 }
