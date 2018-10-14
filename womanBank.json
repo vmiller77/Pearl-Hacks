@@ -20,8 +20,8 @@
 "victoriaMiller":{  
    "name":"Victoria Miller",
    "img":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAirAAAAJDZiNzU2MzQxLTEyMDEtNDZjYi1hYzQxLTc1ZjJjY2JlZThhMA.jpg",
-   "field":"Computer Science/Mathematical Decision Sciences",
-   "description":"Victoria is a UNC Chapel Hill Student. This past summer she worked on making an extension that helps physically disabled users use Facebook. Victoria is also a TA for an intro programming course and she loves it!"
+   "field":"Computer Science/Statistics",
+   "description":"Victoria is a UNC Chapel Hill alumnus. She has conducted research in the past for accessibility technology and used to be a TA for an intro CS course. She loves teaching, learning, and solving challenging problems!"
 },
 "ameenahGuribfakim":{"name":"Ameenah Gurib-Fakim",
    "field":"Science",
@@ -31,12 +31,12 @@
 "ruthMoore":{"name":"Ruth Ella Moore",
    "field":"Science",
    "img":"http://www.blackpast.org/files/blackpast_images/moore_ruth_ella.jpg",
-   "description": "Ruth is the first African-American woman to earn a Ph.D in the natural sciences.She taught hygiene and English at Tennessee State University,during her graduate school years. She then became an assistant Professor of bacteriology at Howard University College of Medicine.In 1995 she wasmade the HEad of the department of Bacteriology."
+   "description": "Ruth is the first African-American woman to earn a Ph.D in the natural sciences. She taught hygiene and English at Tennessee State University during her graduate school years. She then became an assistant Professor of bacteriology at Howard University College of Medicine. In 1995 she was made the Head of the department of Bacteriology."
 },
 "srihitaBongu":{"name":"Srihita Bongu",
    "field":"Chemistry/Economics",
    "img":"https://scontent-atl3-1.xx.fbcdn.net/v/t31.0-8/10479919_905959109431638_3618935554918047746_o.jpg?oh=14e4dde5bee3f33de19753ecb49bfa7d&oe=592525F3",
-   "description": "Srihita is a senior at UNC majoring in Chemistry and Economics. Her research focuses on neuroproteins implicated in mental disabilities and disorders as well as the regulatory dynamics of the healthcare industry. She found her passion for compSci too late to major in it but is excited to continue her learning post graduation."
+   "description": "Srihita is a UNC alumnus who majored Chemistry and Economics. Her research focused on neuroproteins implicated in mental disabilities and disorders as well as the regulatory dynamics of the healthcare industry. She found her passion for computer science too late to major in it but is continuing her learning post graduation."
 },
 "aliceBall":{"name":"Alice Ball",
    "field":"Chemistry",
@@ -61,7 +61,7 @@
 "maryamMirzakhani" : {"name":"Maryam Mirzakhani",
    "field": "Mathematics",
    "img":"http://mathematics.stanford.edu/wp-content/uploads/connections-images/maryam-mirzakhani/Mirzakhani_original.jpg",
-   "description": "Mirzakhani, currently a professor at Stanford University, was both the first woman and the first Iranian in 2014 to be awarded the Fields medal, the equivalent of the Nobel Prize in Mathematics, for her oustanding contributions to the study of Riemann surfaces."
+   "description": "Mirzakhani was a professor at Stanford University. She was both the first woman and the first Iranian in 2014 to be awarded the Fields medal, the equivalent of the Nobel Prize in Mathematics, for her oustanding contributions to the study of Riemann surfaces."
 },
 "francesAllen" : {"name":"Frances Allen",
    "field":"Computer Science",
@@ -72,7 +72,7 @@
       "name":"Moza Hamud",
       "field":"Bio-Chemistry",
       "img":"https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-0/s480x480/14494861_668771753288058_5276605535066605648_n.jpg?oh=763c6957814d0c092f8773504844e117&oe=594833FD",
-      "description":"Moza is working for the science labs at UNC and she loves it! Moza loves science, but she also loves people. That is why she is a resident advisor."
+      "description":"Moza worked for the science labs at UNC and loved her experience. Moza loves science, but she also loves people. That is why she is a resident advisor."
    },
 "bellBurnell" : {"name":"Jocelyn Bell Burnell",
    "field":"Astrophysics",
