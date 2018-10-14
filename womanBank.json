@@ -96,5 +96,23 @@
    "field":"Science",
    "img":"https://www.sigmaxi.org/images/default-source/Meetings-Events/student-research-showcase-2014/2018-presentations/vaishnavi-siripurapu.jpg?sfvrsn=d921b858_0&MaxWidth=230&MaxHeight=255&ScaleUp=true&Quality=High&Method=ResizeFitToAreaArguments&Signature=11492F29CF7AA3E7B99C0F69F79D3DAA",
    "description":"Vaishnavi Siripurapu is a student at UNC-Chapel Hill. Despite her young age, Vaishnavi has conducted research in Duke University's Medical School in the Bagnat Lab to determine the organization and formation of notochords in zebrafish and has been published in the journal Philosophical Transactions of the Royal Society B. She continues her work at the Lohmann Lab at UNC and spreads science by working as a science communicator for various organizations."
-}
+},
+   "rubyHirose":{
+   "name":"Ruby Hirose",
+   "field":"Bacteriology and Biochemistry",
+   "img":"https://cdn-images-1.medium.com/max/1600/1*Zp3aEgcqMkOm4Br_Raiqig.jpeg",
+   "description":"Dr. Ruby Hirose was a Japanese-American researcher whose research helped lead to vaccines against polio and other diseases. She also published a scientific paper on a plant collected by Lewis and Clark. She also suffered from Hay fever while trying to find a way to treat it."
+   },
+   "annieEasley":{
+   "name":"Annie Easley",
+   "field":"Computer Science and Math",
+   "img":"https://cdn-images-1.medium.com/max/1600/1*NO5CPuYq4A-59y5DfBYQkw.jpeg",
+   "description":"In 1955, Annie Easley began her career at NASA, as a human computer performing complex mathematical calculations. Her contributions to the Centaur project framed the technological foundation for launching future satellites and space vehicles, including the 1997 launch of Cassini to Saturn. Later in her career at NASA, she became an equal employment opportunity (EEO) counselor to address issues of gender, race, and age in discrimination complaints."
+   },
+   "marjorieLeeBrowne":{
+   "name":"Marjorie Lee Browne",
+   "field":"Mathematics",
+   "img":"https://www.thefamouspeople.com/profiles/images/og-marjorie-lee-browne-5586.jpg",
+   "description":"Marjorie was one of the first African American women to earn a math PhD. She earned this degree at the University of Michigan. Browne taught at North Carolina Central University (NCCU), a historically black university. She did this because she believed that involvement of black women in STEM fields was a systemic problem. She spent the rest of her life teaching and loving math!"
+   }
 }
